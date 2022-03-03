@@ -3,7 +3,9 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/8WJw9kAG3wonu/giphy.webp?cid=82a1493bbaubrrss48uezdh2xc7xsguzw3dz432m5krxec9y&rid=giphy.webp&ct=g" width="100"/>
 </div>
-
+<p> 
+<a href="https://wa.me/6283160908152"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/xyzkikii__"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 <!--
 **Kikii-XyZ/Kikii-XyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
